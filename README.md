@@ -47,7 +47,6 @@ LUFFY/
 - API integrations (OpenAI, Gemini) are currently placeholder implementations
 - FSDP and distributed training features need completion
 
-
 ### 🔴 High Priority TODOs
 
 - **API Integration**: OpenAI and Gemini API implementations need completion
